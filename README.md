@@ -65,8 +65,4 @@
     </script>
 </body>
 </html>
-[
-  {"rank": 3, "title": "생각의 기원", "author": "마이클 토마셀로", "category": "인문"},
-  {"rank": 4, "title": "불변의 법칙", "author": "모건 하우절", "category": "경제경영"},
-  {"rank": 5, "title": "세이노의 가르침", "author": "세이노", "category": "자기계발"}
-]
+
