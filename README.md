@@ -66,3 +66,10 @@
     </script>
 </body>
 </html>
+[
+  {"rank": 1, "title": "나의 완벽한 장례식", "author": "정선임", "category": "소설"},
+  {"rank": 2, "title": "마흔에 읽는 쇼펜하우어", "author": "강용수", "category": "인문"},
+  {"rank": 3, "title": "생각의 기원", "author": "마이클 토마셀로", "category": "인문"},
+  {"rank": 4, "title": "불변의 법칙", "author": "모건 하우절", "category": "경제경영"},
+  {"rank": 5, "title": "세이노의 가르침", "author": "세이노", "category": "자기계발"}
+]
